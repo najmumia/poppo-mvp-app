@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Poppo MVP",
+    "slug": "poppo-mvp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.poppo.mvpapp"
+    }
+  }
+}
